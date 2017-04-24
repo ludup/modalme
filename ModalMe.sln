@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModalMe", "ModalMe.vcxproj", "{88E20100-DC02-43EF-AB01-A279E268E3B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ModalMeSetup", "ModalMeSetup\ModalMeSetup.vdproj", "{3921487F-B086-4610-AD22-4F9458ED09F5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ModalMeSetup64", "ModalMeSetup64\ModalMeSetup64.vdproj", "{03E9C488-3465-4353-B09F-A30BC77DADE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Debug|x64.ActiveCfg = Debug|x64
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Debug|x64.Build.0 = Debug|x64
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Debug|x86.Build.0 = Debug|Win32
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Release|x64.ActiveCfg = Release|x64
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Release|x64.Build.0 = Release|x64
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Release|x86.ActiveCfg = Release|Win32
+		{88E20100-DC02-43EF-AB01-A279E268E3B0}.Release|x86.Build.0 = Release|Win32
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Debug|x64.ActiveCfg = Debug
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Debug|x86.ActiveCfg = Debug
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Debug|x86.Build.0 = Debug
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Release|x64.ActiveCfg = Release
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Release|x86.ActiveCfg = Release
+		{3921487F-B086-4610-AD22-4F9458ED09F5}.Release|x86.Build.0 = Release
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Debug|x64.ActiveCfg = Debug
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Debug|x64.Build.0 = Debug
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Debug|x86.ActiveCfg = Debug
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Release|x64.ActiveCfg = Release
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Release|x64.Build.0 = Release
+		{03E9C488-3465-4353-B09F-A30BC77DADE1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

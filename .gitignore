@@ -1,1 +1,8 @@
 *.vcproj.VS2008.lee.user
+/Release/
+/x64/
+/Debug/
+/.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.htm
